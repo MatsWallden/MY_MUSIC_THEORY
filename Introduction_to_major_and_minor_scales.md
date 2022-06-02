@@ -1,6 +1,6 @@
 # Introduction to major and minor scales
 notes from 2022 JUN 02 <br/>
-introductio by Erik Svensson <br/>
+introduction by Erik Svensson at ungdomens hus<br/>
 
 There are 12 notes, A-G, alphabetically. Scales are made of 7 notes. The sequence these are played will determine how the brain interprets the music, e.g. major or minor <br/>
 The major scale starts in C and proceeds as D, E, F, G, A, B. These are all white keys on a piano. C is located directly left of the first black key that is in a cluster of two black keys <br/>
