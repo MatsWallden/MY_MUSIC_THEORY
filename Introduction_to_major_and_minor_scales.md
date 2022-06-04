@@ -13,4 +13,4 @@ The **minor scale** is defined by the sequence:
 $$\Delta_{minor}=\left[2,1,2,2,1,2,2\right]$$
 Regardless of keynote in both cases. <br/>
 
-
+Note that these are identical if circular shifted. This means that when playing one of the scales (in sequence) and continuing for a few more notes into the next octave will entail playing the other scale.  
