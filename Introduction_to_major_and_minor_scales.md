@@ -7,9 +7,9 @@ The major scale starts in C and proceeds as D, E, F, G, A, B. These are all whit
 The distance between two adjacent keys (regardless of color, note than two white keys are not adjacent if there is a black key between them), is sometimes referred to as a semitone (or half step). The distance (in pitch) between all adjacent keys is the same. These, semitones, will be considered here as full steps, and referred to simply as steps. <br/>
 
 A scale is defined by the initial tone, referred to as the **keynote**, and the sequence of distances $\Delta$ in the direction from lower to higher pitch. The keys within a scale are more likely to sound good when played in sequence, i.e. in a melody <br/>
-The minor **major scale** is defined by the sequence (measured in semitones):   
+The **major scale** is defined by the sequence (measured in semitones):   
 $$\Delta_{major}=\left(2,2,1,2,2,2,1\right)$$
-The minor **minor scale** is defined by the sequence (measured in semitones):   
+The **minor scale** is defined by the sequence (measured in semitones):   
 $$\Delta_{minor}=\left(2,1,2,2,1,2,2\right)$$
 Regardless of keynote in both cases. <br/>
 
