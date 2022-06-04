@@ -9,7 +9,7 @@ The minor **major scale** is defined by the sequence (measured in semitones):
 $$\Delta_{major}=\left(2,2,1,2,2,2,1\right)$$
 
 The minor **minor scale** is defined by the sequence (measured in semitones):   
-$$\Delta_{major}=\left(2,1,2,2,1,2,2\right)$$
+$$\Delta_{mminor}=\left(2,1,2,2,1,2,2\right)$$
 
 Regardless of keynote. <br/>
 
