@@ -1,4 +1,4 @@
-# Introduction to major and minor scales
+# Introduction to keys, tones and major and minor scales, and chords
 notes from 2022 JUN 02 <br/>
 introduction by Erik Svensson at ungdomens hus<br/>
 
@@ -14,3 +14,18 @@ $$\Delta_{minor}=\left[2,1,2,2,1,2,2\right]$$
 Regardless of keynote in both cases. <br/>
 
 Note that these are identical if circular shifted. This means that when playing one of the scales (in sequence) and continuing for a few more notes into the next octave will entail playing the other scale.  
+
+For each major scale there is parallell minor scale and vice versa. These will sound better together. Three tones down from major 
+
+
+## CHORDS
+
+At least three tones, within the same scale. 
+$$\Delta_{chord,major}=\left[4,3\right]$$
+$$\Delta_{chord,minor}=\left[3,4\right]$$
+
+## endings
+
+table goes here
+
+
